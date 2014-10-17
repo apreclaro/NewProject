@@ -11,7 +11,7 @@ namespace C2Lab1
         public string fname;
         public string lname;
         public string major;
-        public string gpa;
+        public string GPA;
 
     }
 }
